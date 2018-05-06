@@ -1,0 +1,12 @@
+Averages
+================
+-Income for females: $28646.32...
+-Income for male: $27225.83...
+
+Females w/ Mortgage and Savings Account:  71...
+
+Innercity region males with car & 1 child: 15
+Rural region males with car & 1 child:  9
+Suburban region males with car & 1 child:  3
+Town region males with car & 1 child:  7...Current Time Stamp = 2018/04/07 23:21:00
+Programmed by Carlos Lopez
